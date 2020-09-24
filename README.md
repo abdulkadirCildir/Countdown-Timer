@@ -1,2 +1,2 @@
 # Countdown-Timer
-Countdown Timer to newyear
+Countdown Timer for the new year.
