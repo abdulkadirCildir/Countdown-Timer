@@ -36,6 +36,20 @@ h1 {
     margin: 0 2rem;
 }
 
+.footer {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    position: fixed;
+    bottom: 3rem;
+    left: 5rem;
+}
+
+.today-date {
+    text-align: center;
+    width: 10rem;
+    margin-right: 3rem;}
+
 .countdown-el {
     text-align: center;
 }
